@@ -1,9 +1,13 @@
 Data Mining
 
 -DecisionTree
+
 -K-Nearest Neighbors
+
 -LogisticRegression
+
 -RandomForestClassifier
+
 -Cnn
 
 

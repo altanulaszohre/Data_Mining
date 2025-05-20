@@ -84,3 +84,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - Scikit-learn
 - TensorFlow and Keras
 - Open datasets and contributors
+
+
+
+***Altan Ulaş Zöhre***
